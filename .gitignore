@@ -1,0 +1,22 @@
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Python Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secret
+backend/.env
+
+# Data & Databases
+data/
+backend/chroma_db/
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
