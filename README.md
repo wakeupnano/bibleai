@@ -1,6 +1,4 @@
-# 성경 AI 목회 도우미 (Bible AI Pastoral Assistant)
-
-git 
+# Bible AI Pastoral Assistant (성경 AI 목회 도우미)
 
 ## Architecture
 
