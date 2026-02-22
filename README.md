@@ -1,7 +1,5 @@
 # Bible AI Pastoral Assistant (성경 AI 목회 도우미)
 
-## Architecture
-
 ## System Architecture
 
 **[ Next.js Web UI ]** │
